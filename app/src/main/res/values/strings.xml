@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Movies</string>
+
+    <!-- MOVIE LIST -->
+    <string name="row_rating">Rating: %1$s</string>
+    <string name="row_released">Released: %1$s</string>
+
+    <!-- MOVIE DETAILS -->
+    <string name="follow">Follow</string>
+    <string name="following">Following</string>
+    <string name="movie_credits">Movie Credits</string>
+
+    <!-- FAVORITES ACTIVITY -->
+    <string name="favorites_movies">My Favorites</string>
+
+
+</resources>
